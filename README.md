@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fernandesgiovana143@gmail.com**
 
-- ⚡ Fun fact **I love listen to music**
+- ⚡ Fun fact **I love watching sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
