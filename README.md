@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovana</h1>
 <h3 align="center">A web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [music website](https://github.com/GiovanaJensen/music-website)
+- 🔭 I’m currently working on [ButecoTech website](https://github.com/GiovanaJensen/ButecoTech)
 
 - 🌱 I’m currently learning **Linux and React**
 
