@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [ButecoTech website](https://github.com/GiovanaJensen/ButecoTech)
 
-- 🌱 I’m currently learning **Linux and React**
+- 🌱 I’m currently learning **Java, Haskell and React**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux**
 
-- 📫 How to reach me **fernandesgiovana143@gmail.com**
+- 📫 How to reach me **fernandesgiovana143@gmail.com or oliveirasgiovana143.gmail.com**
 
 - ⚡ Fun fact **I love watching sports**
 
