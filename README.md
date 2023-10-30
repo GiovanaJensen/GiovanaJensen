@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giovana</h1>
 <h3 align="center">A web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [ButecoTech website](https://github.com/GiovanaJensen/ButecoTech)
+- 🔭 I’m currently working on [Peniel website](https://github.com/GiovanaJensen/ButecoTech) and [Telefonia using java]()
 
-- 🌱 I’m currently learning **Java, Haskell and React**
+- 🌱 I’m currently learning **Java, Haskell, Webflow and Wordpress**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux and React**
 
 - 📫 How to reach me **fernandesgiovana143@gmail.com or oliveirasgiovana143.gmail.com**
 
