@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovana</h1>
 <h3 align="center">A web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Peniel website](https://github.com/GiovanaJensen/ButecoTech) and [Telefonia using java]()
+- 🔭 I’m currently working on [Peniel website](https://animacoes-e9f3e1.webflow.io/) and [Telefonia using java](https://github.com/GiovanaJensen/Telefonia-java)
 
 - 🌱 I’m currently learning **Java, Haskell, Webflow and Wordpress**
 
