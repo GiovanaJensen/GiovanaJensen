@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux and React**
 
-- 📫 How to reach me **fernandesgiovana143@gmail.com or oliveirasgiovana143.gmail.com**
+- 📫 How to reach me **fernandesgiovana143@gmail.com** or **oliveirasgiovana143.gmail.com**
 
 - ⚡ Fun fact **I love watching sports**
 
