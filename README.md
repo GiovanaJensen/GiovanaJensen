@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giovana</h1>
 <h3 align="center">A web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Buffet Cicareli website](https://buffet-cicareli.webflow.io/) and [SGP](https://github.com/sgpgithub23/sgp).
+- 🔭 I’m currently working on [Fatec Internship app](https://github.com/GiovanaJensen/fatec-internship) and [Biblioteca with Spring](https://github.com/GiovanaJensen/biblioteca-spring).
 
-- 🌱 I’m currently learning **Java, Haskell, Webflow and Wordpress**
+- 🌱 I’m currently learning **.NET, Spring, Angular, Flutter and Wordpress**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux and React**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux, Wordpress and React**
 
 - 📫 How to reach me **fernandesgiovana143@gmail.com** or **oliveirasgiovana143.gmail.com**
 
