@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Giovana</h1>
 <h3 align="center">A web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Fatec Internship app](https://github.com/GiovanaJensen/fatec-internship) and [Biblioteca with Spring](https://github.com/GiovanaJensen/biblioteca-spring).
+- 🔭 I’m currently working on [Finq app](https://github.com/StefanyFernandes675/FinQ) and [Unit Testing](https://github.com/GiovanaJensen/unit-testing)
 
-- 🌱 I’m currently learning **.NET, Spring, Angular, Flutter and Wordpress**
+- 🌱 I’m currently learning **Unit Testing with Jasmine and Jest**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Node.js, Python, Linux, Wordpress and React**
+- 💬 Ask me about **Angular, PHP, Node.js, Linux, Wordpress, React and Flutter**
 
 - 📫 How to reach me **fernandesgiovana143@gmail.com** or **oliveirasgiovana143.gmail.com**
 
-- ⚡ Fun fact **I love watching sports**
+- ⚡ Fun fact **I love watching sports and listen Taylor Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
