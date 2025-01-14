@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, PHP, Node.js, Linux, Wordpress, React and Flutter**
 
-- 📫 How to reach me **fernandesgiovana143@gmail.com** or **oliveirasgiovana143.gmail.com**
+- 📫 How to reach me **fernandesgiovana143@gmail.com**
 
 - ⚡ Fun fact **I love watching sports and listen Taylor Swift**
 
